@@ -19,5 +19,8 @@
   "homepage": "https://github.com/Andrey-Yanchuk/hexlet-js#readme",
   "dependencies": {
     "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "prettier": "^3.4.1"
   }
 }
